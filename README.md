@@ -7,7 +7,7 @@ I will be attempting this in Python 🐍 as my skills are a little rusty
 | ----------- | ----------- | ----------- |
 1 | First day I am so proud | ⭐⭐
 2 | wow am i rusty | ⭐⭐
-3 | never worked with strings in python before this is fun | ⭐
+3 | never worked with strings in python before this is fun | ⭐⭐
 4
 5
 6
