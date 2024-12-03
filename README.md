@@ -6,7 +6,7 @@ I will be attempting this in Python 🐍 as my skills are a little rusty
 | Day | Anything Special? | STARZ
 | ----------- | ----------- | ----------- |
 1 | First day I am so proud | ⭐⭐
-2 | | ⭐
+2 | wow am i rusty | ⭐⭐
 3
 4
 5
